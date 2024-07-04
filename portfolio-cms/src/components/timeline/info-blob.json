@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_timeline_info_blobs",
+  "info": {
+    "displayName": "info_blob",
+    "icon": "quote",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}
